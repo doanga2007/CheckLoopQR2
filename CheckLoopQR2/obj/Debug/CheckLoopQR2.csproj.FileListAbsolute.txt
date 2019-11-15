@@ -1,0 +1,12 @@
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\CheckLoopQR2.dll.config
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\CheckLoopQR2.dll
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\CheckLoopQR2.pdb
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\zxing.dll
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\zxing.presentation.dll
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\zxing.pdb
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\zxing.xml
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\zxing.presentation.pdb
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\bin\zxing.presentation.xml
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\obj\Debug\CheckLoopQR2.csprojResolveAssemblyReference.cache
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\obj\Debug\CheckLoopQR2.dll
+c:\users\tum\documents\visual studio 2013\Projects\CheckLoopQR2\CheckLoopQR2\obj\Debug\CheckLoopQR2.pdb
